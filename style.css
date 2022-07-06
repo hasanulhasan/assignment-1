@@ -33,7 +33,7 @@ h1{
   border-radius: 7px;
   font-size: 25px;
 }
-section{ margin-bottom: 150px;}
+section{ margin-bottom: 120px;}
 h2{
   font-size: 55px;
 }
@@ -98,4 +98,74 @@ h2{
 }
 .card-3{
   background-color: #fff4d6;
+}
+.content-1{
+  display: flex;
+  margin-left: 12%;
+  margin-right: 10%;
+}
+.half-width{
+  width: 50%;
+}
+.sub-content-1{
+  padding-right: 25px;
+}
+.sub-content-1 p{
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.contact-body{
+  height: 300px;
+  width: 1100px;
+  background-color: #fff4d6;
+  margin-left: 20%;
+  margin-right: 15%;
+  justify-content: center;
+}
+.mail{
+  height: 50px;
+  width: 600px;
+  background-color: gray;
+  margin-left: 25%;
+  display: flex;
+  top: 40%;
+  position: relative;
+  border-radius: 5px;
+}
+.mail p{
+  margin-left: 3px; 
+  font-size: 25px; 
+  font-weight: 200;
+}
+.mail-2{
+  height: 50px;
+  width: 200px;
+  background-color: rgb(213, 30, 30);
+  margin-left: 68%;
+  display: flex;
+  position: relative;
+  border-radius: 5px;
+}
+.mail-2 p{
+  text-align: center;
+  font-size: 25px; 
+  font-weight: 200;
+  color: white;
+}
+
+.footer{
+  background-color: black;
+  height: 220px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.footer p{
+  font-family: 'Lobster';
+  font-size: 45px;
+  color: #ff5959;
+}
+.footer span{
+  font-size: 20px;
+  color: rgba(0, 255, 255, 0.476);
 }
