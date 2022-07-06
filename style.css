@@ -69,14 +69,33 @@ h2{
 .plan-cards{
   display: flex;
   justify-content: center;
-  width: 70%;
-  margin-left: 15%;
+  width: 80%;
+  margin-left: 10%;
 }
 .card{
-  padding-left: 150px;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-left: 20px;
+  padding-right: 30px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background-color: bisque;
   margin-left: 10px;
   margin-right: 10px;
+  border-radius: 5px;
+}
+.card h3{
+  font-size: 25px;
+}
+.card p{
+    font-size: 25px;
+    font-weight: 100;
+    color: gray
+}
+.card-1{
+  background-color: #edf5f6;
+}
+.card-2{
+  background-color: #ff9797;
+}
+.card-3{
+  background-color: #fff4d6;
 }
