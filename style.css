@@ -125,6 +125,26 @@ hr{
 .half-width{
   width: 50%;
 }
+.photo{ 
+  display: flex;
+  margin-left: 10%;
+}
+.photo-1{
+  height: 350px;
+  width: 500px;
+  margin-right: 10px;
+}
+.photo-2{
+  height: 350px;
+  width: 500px;
+  margin-right: 10px;
+}
+.photo-3{
+  height: 350px;
+  width: 500px;
+}
+
+
 .sub-content-1{
   padding-right: 25px;
 }
