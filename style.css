@@ -6,13 +6,18 @@ body{
   background-image: url(img/donate.jpg);
   background-repeat: no-repeat;
   width: 100%;
-  height: 800px;
+  height: 1000px;
   background-size: cover;
+  display: flex;
 }
 .banner-content{
   text-align: center;
   top: 30%;
   position: relative;
+  margin-left: 12%;
+}
+.banner-content span{
+  color:  #f6004e;
 }
 
 h1{
